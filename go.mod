@@ -1,4 +1,4 @@
-module fitpack
+module github.com/dunv/fitpack
 
 go 1.18
 
