@@ -5,4 +5,4 @@
 * splev (splev)
 * splder (splder)
 
-Adapted from scipy and http://www.netlib.org/dierckx/
+Adapted for usage in go from scipy and http://www.netlib.org/dierckx/
