@@ -1,7 +1,7 @@
 package fitpack
 
+// #cgo FFLAGS: -std=legacy
 // #cgo LDFLAGS: -lgfortran -lm
-// #cgo CFLAGS: -w
 // void parcur_( int*, int*, int*, int*, double*, int*, double*, double*, double*, double*, int*, double*, int*, int*, double*, int*, double*, double*, double*, int*, int*, int* );
 // void splev_( double*, int*, double*, int*, double*, double*, int*, int*, int* );
 // void splder_( double*, int*, double*, int*, int*, double*, double*, int*, int*, double*, int* );
